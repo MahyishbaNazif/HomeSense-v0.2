@@ -57,6 +57,13 @@ HomeSense v0.2 focuses on creating a clean, user-friendly experience for managin
 
 ---
 
+## 🎨 Figma Prototype
+
+**Figma Design:**
+[View the HomeSense v0.2 Design](https://www.figma.com/design/lC29jSi6BC2H2lcuzkb7J3/HomeSense-v0.2?node-id=2003-68&t=3uBH0sVQvNuRlXSj-1)
+
+**Interactive Prototype:**
+[Try the Prototype](https://www.figma.com/proto/lC29jSi6BC2H2lcuzkb7J3/HomeSense-v0.2?node-id=2003-189&p=f&t=LSmMclyGJNNdSlmo-1&scaling=min-zoom&content-scaling=fixed&page-id=2003%3A68&starting-point-node-id=2003%3A189)
 ## 🚀 Future Improvements
 
 - Smart device scheduling
