@@ -35,25 +35,25 @@ HomeSense v0.2 focuses on creating a clean, user-friendly experience for managin
 ![Home](home.png)
 
 ### Living Room
-![Living Room](living-room.png)
+![Living Room](assets/living-room.png)
 
 ### Energy Analytics
-![Energy Analytics](energy-analytics.png)
+![Energy Analytics](assets/energy-analytics.png)
 
 ### Smart Automations
-![Smart Automations](smart-automations.png)
+![Smart Automations](assets/smart-automations.png)
 
 ### Notifications
-![Notifications](notifications.png)
+![Notifications](assets/notifications.png)
 
 ### Security
-![Security](security.png)
+![Security](assets/security.png)
 
 ### Profile
-![Profile](profile.png)
+![Profile](assets/profile.png)
 
 ### Settings
-![Settings](settings.png)
+![Settings](assets/settings.png)
 
 ---
 
