@@ -32,7 +32,7 @@ HomeSense v0.2 focuses on creating a clean, user-friendly experience for managin
 ## 📷 Screens
 
 ### Home
-![Home](home.png)
+![Home](assets/home.png)
 
 ### Living Room
 ![Living Room](assets/living-room.png)
